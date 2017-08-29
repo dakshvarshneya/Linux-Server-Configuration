@@ -97,6 +97,7 @@ Install the libapache2-mod-wsgi package:
 <li> Set it up in your server so that it functions correctly when visiting your server’s IP address in a browser. Make sure that your .git directory is not publicly accessible via a browser! </li>
 
 </ul>
+
 ## LICENSE
 
 The content of this program is licensed under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Common Attribution</a>
